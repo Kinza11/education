@@ -1,2 +1,0 @@
-# education
-Go get education
